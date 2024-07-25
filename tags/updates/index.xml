@@ -1,0 +1,33 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+	<title>My New Hugo Site</title>
+	<link>http://localhost:1313/tags/updates/</link>
+	<description>Recent content in Updates on My New Hugo Site</description>
+	<generator>Hugo -- gohugo.io</generator>
+	<language>en-us</language>
+	<lastBuildDate>Fri, 28 Jun 2024 09:21:42 -0400</lastBuildDate>
+    
+        <atom:link href="http://localhost:1313/tags/updates/index.xml" rel="self" type="application/rss+xml" />
+	
+	
+	<item>
+		<title>About</title>
+		<link>http://localhost:1313/about/</link>
+		<pubDate>Fri, 28 Jun 2024 09:21:42 -0400</pubDate>
+		
+		<guid>http://localhost:1313/about/</guid>
+		<description>&lt;p&gt;This is some content&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;asd&lt;/li&gt;
+&lt;li&gt;asd&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;1 asdad
+2 adsasd
+3 asdasd&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/static/img/photo.jpg&#34; alt=&#34;me&#34;&gt;&lt;/p&gt;
+&lt;p&gt;check &lt;a href=&#34;http://localhost:1313/content/autobiography.md&#34;&gt;this&lt;/a&gt; out&lt;/p&gt;
+</description>
+	</item>
+	
+	</channel>
+</rss>
